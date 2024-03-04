@@ -1,7 +1,4 @@
-
-#ADS - POO
-
-using System;
+## ADS-POO
 
 class Programa {
 
