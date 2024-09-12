@@ -161,6 +161,7 @@ class Animal {
 }
 
 class Program {
+
     static void Main(string[] args) {
         // Exemplo de uso das classes
         Pessoa pessoa1 = new Pessoa();
